@@ -13,29 +13,29 @@ Highlighted uses following modules:
 This app was tested only on macOS with intel and M1. It should work on other platforms; this however cannot be guaranteed. M1 seems to have a problem with native installation of some of the required packages. Installing modules and using the app inside an anaconda environment works, since anaconda itself is not yet native to M1 and seems to run using Rosetta 2.
 
 
-![](main_window_empty.png)
+![](Images/main_window_empty.png)
 
-![](main_window_korean.png)
+![](Images/main_window_korean.png)
 
-![](add_info_window_korean.png)
+![](Images/add_info_window_korean.png)
 
-![](anki_image.png)
+![](Images/anki_image.png)
 
-![](anki_text.png)
+![](Images/anki_text.png)
 
 ## Pairings
 
-![](create_deck_paired_korean.png)
-![](digest_korean.png)
+![](Images/create_deck_paired_korean.png)
+![](Images/digest_korean.png)
 
 ## From PDF to ANKI
 
-![](chinese_pdf.png)
+![](Images/chinese_pdf.png)
 
-![](chinese_anki.png)
+![](Images/chinese_anki.png)
 
 ## From PDF to ANKI
 
-![](lina_pdf.png)
+![](Images/lina_pdf.png)
 
-![](lina_anki.png)
+![](Images/lina_anki.png)
